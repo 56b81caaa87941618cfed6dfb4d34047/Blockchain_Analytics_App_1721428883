@@ -112,5 +112,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "search_input_1721428929.js": {
+        "id": "search_input-f2e63440-66d9-98ef-e2b2-515cc179c446",
+        "name": "search_input",
+        "type": "markdown",
+        "metadata": {},
+        "w": 4,
+        "h": 4,
+        "x": "30",
+        "y": "30",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
